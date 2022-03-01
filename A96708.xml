@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elmston the 9. of the 11. month, 1656. For Thomas Munnings, John Durance, and the rest of the Commissioners sometimes sitting at Canterbury about tythes. The plea and protest of Robert Winter of Elmston in the county of Kent, for his non-payment of tythes.</title>
+            <author>Winter, Robert, of Elmston, Kent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96708</idno>
+            <idno type="STC">Wing W3084</idno>
+            <idno type="STC">Thomason E910_6</idno>
+            <idno type="STC">ESTC R207506</idno>
+            <idno type="EEBO-CITATION">99866551</idno>
+            <idno type="PROQUEST">99866551</idno>
+            <idno type="VID">118827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118827)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 137:E910[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elmston the 9. of the 11. month, 1656. For Thomas Munnings, John Durance, and the rest of the Commissioners sometimes sitting at Canterbury about tythes. The plea and protest of Robert Winter of Elmston in the county of Kent, for his non-payment of tythes.</title>
+                  <author>Winter, Robert, of Elmston, Kent.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 8 1657".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118827:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 104 -->
+            <opener>
+               <dateline>Elmston <date>the 9. of the 11. Month, 1656.</date>
+               </dateline>
+            </opener>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>For <hi>Thomas Munnings, John Durance,</hi> and the reſt of the Commiſſioners ſometimes ſitting at <hi>Canterbu<g ref="char:EOLhyphen"/>ry</hi> about tythes.</head>
+                        <head type="sub">The Plea and Proteſt of <hi>Robert Winter</hi> of <hi>Elmſton</hi> in the county of <hi>Kent,</hi> for his non-payment of tythes.</head>
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <add>May 8 1657</add>
+                              </date>
+                           </dateline>
+                           <lb/>
+                           <salute>My Friends and Countreymen,</salute>
+                        </opener>
+                        <p>
+                           <seg rend="decorInit">I</seg>N my abſence ſome dayes ago there came a man to my houſe (as I am informed) with a Note, Paper, or pretended War<g ref="char:EOLhyphen"/>rant, to require me to appear before you (as I judge) the Commiſsioners about tythes, ſitting at the Red Lyon at <hi>Canterbury</hi> upon the twelfth day of this preſent eleventh month, 1656.</p>
+                        <p>But by way of righteous and conſciencious Plea and Proteſt againſt your ſo ſummoning of me, I ſolemn<g ref="char:EOLhyphen"/>ly and deliberately declare and ſay:</p>
+                        <p n="1">1. That <hi>Moſes</hi> the true ſervant of the Lord, who was faithful in the Houſe of God under the firſt Co<g ref="char:EOLhyphen"/>venant, <hi>Heb.</hi> 3. in his adminiſtration by the infallible unerring ſpirit of the Lord, profeſsed unto old Iſrael then the church of the living God, That the time ſhould come, that the Lord their God would raiſe up unto them a Prophet from the midſt of themſelves of their Brethren like unto <hi>Moſes,</hi> &amp; that he will put his words into his mouth, and he ſhall ſpeak unto them all that the Lord ſhall command him; and it ſhall come to paſs, that whoſoever (ſaith God) will not hearken to my words which he ſhall ſpeak in my name, I will re<g ref="char:EOLhyphen"/>quire
+<pb n="2" facs="tcp:118827:2"/>
+                           <!-- PDF PAGE 105 -->it of him (<hi>Deut.</hi> 18.15, 18, 19.) or he ſhal be deſtroyed from amongſt the people, or declared a Fu<g ref="char:EOLhyphen"/>gitive and Vagabond from God, yea, and a rebel a<g ref="char:EOLhyphen"/>gainſt him.</p>
+                        <p n="2">2. That when the fulneſs of time was come appoin<g ref="char:EOLhyphen"/>ted of the Father, he ſent and manifeſted his Son the Lord Jeſus Chriſt, born under the Law or firſt cove<g ref="char:EOLhyphen"/>nant, and made ſubject to the Law, yet annointed with the oyle of gladneſs above meaſure, in whom the God-head dwelt bodily, whom with great majeſty, power, and glory he declared, and by his faithful and true witneſses, witneſsed him to be that great Prophet that <hi>Moſes</hi> many hundreds of yeers before propheſied of, whom the people under the ſecond or new cove<g ref="char:EOLhyphen"/>nant of life, and peace, and power, were to hear in all things whatſoever he ſhall ſay unto them, upon pain of being deſtroyed from amongſt the people, <hi>Acts</hi> 3.22, 23. <hi>&amp;</hi> 7.37.</p>
+                        <p>That this great Prophet, being ſo manifeſted, was the real ſubſtance of all ſhadows, types and figures, in whom, and at whoſe death they all ceaſed, and by which there really was made a change of the firſt or Levitical Prieſthood, and ſo of the whole law, wages and maintenance thereunto belonging, and ſo the pay<g ref="char:EOLhyphen"/>ment of tythes thereby for ever wholly ceaſed, <hi>Heb.</hi> 7:</p>
+                        <p>In all which regards for me to pay tythes now under the goſpel, or ſecond and new covenant of life and peace, is as much as in me lies to deny the Son of God manifeſted in fleſh, and life, and power; and alſo to ſet up again the firſt and changeable prieſthood, and ſo to be a real rebel, or a blaſphemous Antichriſt againſt the Lords annointed great and true Prophet, the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, which to do I dare not for all the world, though I cauſe my life and eſtate thereby.</p>
+                        <p>
+                           <pb n="3" facs="tcp:118827:2"/>
+                           <!-- PDF PAGE 105 -->
+And beſides, by the ſtanding and binding Parliament-Laws of England, as the 24. of <hi>Henry</hi> the 8. chap. the 12. the Rights of tythes are plainly declared to apper<g ref="char:EOLhyphen"/>tain to the ſpiritual Juriſdiction of the Eccleſiaſtical courts.</p>
+                        <p>Yea, By the laſt Statute (as I underſtand) that ever was made in England for the paying to, and receiving of tythes by any Eccleſiaſtical perſon, Vicar, Curate, Proprieter, Owner, or other Farmer or Deputy, it is plainly declared, That they, or any of them ſhall ſue for tythes onely before the Eccleſiaſtical Judges in Ec<g ref="char:EOLhyphen"/>cleſiaſtical Courts, and no where elſe, as clearly appears by the ſtatute of the ſecond &amp; third of <hi>Edward</hi> the ſixt, chap. 13.</p>
+                        <p>But all Eccleſiaſtical Juriſdiction being as I underſtand, for ever in this nation anihilated &amp; aboliſhed by ſpecial and ſolemn act of parliament made in or about the yeer 1641. and was never ſince, as <hi>I</hi> am certainly in<g ref="char:EOLhyphen"/>formed, by any act of parliament paſt ſince revived.</p>
+                        <p>And therefore you have no Engliſh humane legall juriſdiction to hold plea for tythes before you, nor ſo much as juſtly to ſummon me before you to ſhew cauſ wherefore J wil not now under the Goſpel-adminiſtra<g ref="char:EOLhyphen"/>tion pay tythes.</p>
+                        <p>And therefore J hereby ſolemnly proteſt before <hi>God</hi> and <hi>Man</hi> againſt your unrighteous moleſtation of me, in requiring me to appear before you, who have no Engliſh humane legal parliamentary juriſdiction reſi<g ref="char:EOLhyphen"/>ding in you, to hold plea for tythes, or trouble me, or a<g ref="char:EOLhyphen"/>ny other that conſcientiouſly and rationally judge our ſelves freed from paying of tythes, both by the divine declared Laws of God, and the humane declared par<g ref="char:EOLhyphen"/>liamentary laws of England, and to-this the 9th day of the 11th month 1656. J ſubſcribe my name, <hi>Robert
+<pb n="4" facs="tcp:118827:3"/>
+                              <!-- PDF PAGE 106 -->Winter,</hi> and ſubmit my body and eſtate in patience to your meer wils, ſo far as the Lord thinks fit to give you power over them,</p>
+                        <closer>
+                           <signed>R. M.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>A copy of the fore-going paper the ſaid <hi>Robert Win<g ref="char:EOLhyphen"/>ter</hi> delivered in at the day of his appearance before the Commiſſioners at Canterbury unto themſelves, and although they diſmiſſed him then, yet they have ſince cauſed him and his neighbour and friend <hi>Abiezer Bo<g ref="char:EOLhyphen"/>kins</hi> to appear before them for the non-payment of their tythes, although them have not the leaſt ſhadow of pretence of any legal juriſdiction (nor no more hath any of the called Judges in <hi>Westminſter-hall,</hi> or the Ba<g ref="char:EOLhyphen"/>rons of the Exchequer) to hold plea for non-payment of tythes before them.</p>
+            <p>And therefore in their forcing and compelling of people without the leaſt ſhadow of Parliamentary law to pay them, they really commit the ſame high treaſon in its kind, that the called Earl of <hi>Strafford</hi> loſt his head for, which was for endeavouring by the late Kings com<g ref="char:EOLhyphen"/>mand, or formal commiſſion againſt law, to ſubvert the laws, liberties and properties of the people of Eng<g ref="char:EOLhyphen"/>land, and by his will and pleaſure to introduce and arbi<g ref="char:EOLhyphen"/>trary tyrannical government above law.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
